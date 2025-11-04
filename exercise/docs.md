@@ -6,3 +6,7 @@ Note that this toothbrush is totally safe to use for children, adults, pets, wil
 “The toothbrush requires [need info here].
 
 new line added - no conflict test
+
+new line for main branch
+
+“The toothbrush requires [need info here].
